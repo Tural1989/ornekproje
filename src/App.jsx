@@ -21,6 +21,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
+        <p>HOSGELDINIZ benim projeme !</p>
         <p>
         Git ve Github ogreniyorum tofi ve alperen ile
         </p>
