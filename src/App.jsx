@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-        Git ve Github ogreniyorum alperen  ile
+        Git ve Github ogreniyorum tofi ve alperen ile
         </p>
       </div>
       <p className="read-the-docs">
