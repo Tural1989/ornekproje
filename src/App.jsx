@@ -25,6 +25,7 @@ function App() {
         <p>
         Git ve Github ogreniyorum tofi ve alperen ile
         </p>
+        <span>ikinci eklenti</span>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
